@@ -1,0 +1,2312 @@
+fileFormatVersion: 2
+guid: 68a70c2d57ed9174ab131dbbb353659b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2130544890319920009
+    second: PC Computer - Tyrian - Ships_0
+  - first:
+      213: 90194601127396832
+    second: PC Computer - Tyrian - Ships_1
+  - first:
+      213: -4072179651339875063
+    second: PC Computer - Tyrian - Ships_2
+  - first:
+      213: 7185395760790599217
+    second: PC Computer - Tyrian - Ships_3
+  - first:
+      213: -336475289261294706
+    second: PC Computer - Tyrian - Ships_4
+  - first:
+      213: 8593130238926868953
+    second: PC Computer - Tyrian - Ships_5
+  - first:
+      213: 2824236491201252307
+    second: PC Computer - Tyrian - Ships_6
+  - first:
+      213: 4765356294395931607
+    second: PC Computer - Tyrian - Ships_7
+  - first:
+      213: -2751094319728546470
+    second: PC Computer - Tyrian - Ships_8
+  - first:
+      213: 9164409804569312956
+    second: PC Computer - Tyrian - Ships_9
+  - first:
+      213: 3013810626795693127
+    second: PC Computer - Tyrian - Ships_10
+  - first:
+      213: -8086499561226583989
+    second: PC Computer - Tyrian - Ships_11
+  - first:
+      213: -8734587398220272250
+    second: PC Computer - Tyrian - Ships_12
+  - first:
+      213: -6963677534105975252
+    second: PC Computer - Tyrian - Ships_13
+  - first:
+      213: 5561011114813770143
+    second: PC Computer - Tyrian - Ships_14
+  - first:
+      213: -5942901385573237594
+    second: PC Computer - Tyrian - Ships_15
+  - first:
+      213: 1735746922656895127
+    second: PC Computer - Tyrian - Ships_16
+  - first:
+      213: -2791861169090076767
+    second: PC Computer - Tyrian - Ships_17
+  - first:
+      213: 8061944952851323221
+    second: PC Computer - Tyrian - Ships_18
+  - first:
+      213: 3870159183032679471
+    second: PC Computer - Tyrian - Ships_19
+  - first:
+      213: 8377062759468889506
+    second: PC Computer - Tyrian - Ships_20
+  - first:
+      213: 7189068356954026705
+    second: PC Computer - Tyrian - Ships_21
+  - first:
+      213: -3120969753049746001
+    second: PC Computer - Tyrian - Ships_22
+  - first:
+      213: -5099759780841038534
+    second: PC Computer - Tyrian - Ships_23
+  - first:
+      213: 5086847313938724462
+    second: PC Computer - Tyrian - Ships_24
+  - first:
+      213: 7607299963342066519
+    second: PC Computer - Tyrian - Ships_25
+  - first:
+      213: 151445650679669600
+    second: PC Computer - Tyrian - Ships_26
+  - first:
+      213: -2769116052305239574
+    second: PC Computer - Tyrian - Ships_27
+  - first:
+      213: 1329298253373801169
+    second: PC Computer - Tyrian - Ships_28
+  - first:
+      213: 6032341105053069668
+    second: PC Computer - Tyrian - Ships_29
+  - first:
+      213: 482070580210927354
+    second: PC Computer - Tyrian - Ships_30
+  - first:
+      213: -1204324726881084233
+    second: PC Computer - Tyrian - Ships_31
+  - first:
+      213: 4786683094035206691
+    second: PC Computer - Tyrian - Ships_32
+  - first:
+      213: -3327332660787879402
+    second: PC Computer - Tyrian - Ships_33
+  - first:
+      213: -6553075042267915442
+    second: PC Computer - Tyrian - Ships_34
+  - first:
+      213: -5438400679760787775
+    second: PC Computer - Tyrian - Ships_35
+  - first:
+      213: 5907955646006316467
+    second: PC Computer - Tyrian - Ships_36
+  - first:
+      213: 617455952761833454
+    second: PC Computer - Tyrian - Ships_37
+  - first:
+      213: -3833916300209550440
+    second: PC Computer - Tyrian - Ships_38
+  - first:
+      213: 7995061195026394930
+    second: PC Computer - Tyrian - Ships_39
+  - first:
+      213: 2915021113814443050
+    second: PC Computer - Tyrian - Ships_40
+  - first:
+      213: 37786610152689246
+    second: PC Computer - Tyrian - Ships_41
+  - first:
+      213: 4208618683687253562
+    second: PC Computer - Tyrian - Ships_42
+  - first:
+      213: -539801304454070359
+    second: PC Computer - Tyrian - Ships_43
+  - first:
+      213: -887544187403341889
+    second: PC Computer - Tyrian - Ships_44
+  - first:
+      213: -5902261894125923579
+    second: PC Computer - Tyrian - Ships_45
+  - first:
+      213: 6789966475832687659
+    second: PC Computer - Tyrian - Ships_46
+  - first:
+      213: 1599667210990688363
+    second: PC Computer - Tyrian - Ships_47
+  - first:
+      213: -699367179195771015
+    second: PC Computer - Tyrian - Ships_48
+  - first:
+      213: 6291089032525260524
+    second: PC Computer - Tyrian - Ships_49
+  - first:
+      213: -7776018276359619628
+    second: PC Computer - Tyrian - Ships_50
+  - first:
+      213: -8805819688254316343
+    second: PC Computer - Tyrian - Ships_51
+  - first:
+      213: 3351608371143587357
+    second: PC Computer - Tyrian - Ships_52
+  - first:
+      213: 6982070668622890149
+    second: PC Computer - Tyrian - Ships_53
+  - first:
+      213: -7809801234785216448
+    second: PC Computer - Tyrian - Ships_54
+  - first:
+      213: -2265552793460416085
+    second: PC Computer - Tyrian - Ships_55
+  - first:
+      213: -7730993073086113772
+    second: PC Computer - Tyrian - Ships_56
+  - first:
+      213: -1181175293957071713
+    second: PC Computer - Tyrian - Ships_57
+  - first:
+      213: -3674419425661292507
+    second: PC Computer - Tyrian - Ships_58
+  - first:
+      213: 7427284206179613395
+    second: PC Computer - Tyrian - Ships_59
+  - first:
+      213: -197092252926307644
+    second: PC Computer - Tyrian - Ships_60
+  - first:
+      213: -2478927604932693537
+    second: PC Computer - Tyrian - Ships_61
+  - first:
+      213: -5176465395810799163
+    second: PC Computer - Tyrian - Ships_62
+  - first:
+      213: 2368760452627170681
+    second: PC Computer - Tyrian - Ships_63
+  - first:
+      213: -7794338877905247637
+    second: PC Computer - Tyrian - Ships_64
+  - first:
+      213: 6758037390470514717
+    second: PC Computer - Tyrian - Ships_65
+  - first:
+      213: 733462276636183336
+    second: PC Computer - Tyrian - Ships_66
+  - first:
+      213: 9155083047817829068
+    second: PC Computer - Tyrian - Ships_67
+  - first:
+      213: -1147266448628277700
+    second: PC Computer - Tyrian - Ships_68
+  - first:
+      213: -3748943752100172927
+    second: PC Computer - Tyrian - Ships_69
+  - first:
+      213: 2844784047705406031
+    second: PC Computer - Tyrian - Ships_70
+  - first:
+      213: -2915059108333589392
+    second: PC Computer - Tyrian - Ships_71
+  - first:
+      213: -6799105239730400472
+    second: PC Computer - Tyrian - Ships_72
+  - first:
+      213: 2698417822252698557
+    second: PC Computer - Tyrian - Ships_73
+  - first:
+      213: 8149006252854381989
+    second: PC Computer - Tyrian - Ships_74
+  - first:
+      213: -3464811096316664004
+    second: PC Computer - Tyrian - Ships_75
+  - first:
+      213: 3228065657863468820
+    second: PC Computer - Tyrian - Ships_76
+  - first:
+      213: 6892681655533984677
+    second: PC Computer - Tyrian - Ships_77
+  - first:
+      213: -1962336383783658642
+    second: PC Computer - Tyrian - Ships_78
+  - first:
+      213: -1738670577463418756
+    second: PC Computer - Tyrian - Ships_79
+  - first:
+      213: 619435331234993985
+    second: PC Computer - Tyrian - Ships_80
+  - first:
+      213: 289893303806453203
+    second: PC Computer - Tyrian - Ships_81
+  - first:
+      213: 5877135748176537035
+    second: PC Computer - Tyrian - Ships_82
+  - first:
+      213: -4431821372102927535
+    second: PC Computer - Tyrian - Ships_83
+  - first:
+      213: -4601524382022649302
+    second: PC Computer - Tyrian - Ships_84
+  - first:
+      213: -1525191931870217275
+    second: PC Computer - Tyrian - Ships_85
+  - first:
+      213: 3450952908175726587
+    second: PC Computer - Tyrian - Ships_86
+  - first:
+      213: -6061372127842613013
+    second: PC Computer - Tyrian - Ships_87
+  - first:
+      213: 6959930912436511621
+    second: PC Computer - Tyrian - Ships_88
+  - first:
+      213: 8425903010625348080
+    second: PC Computer - Tyrian - Ships_89
+  - first:
+      213: -194224795389712076
+    second: PC Computer - Tyrian - Ships_90
+  - first:
+      213: 8026515483062759269
+    second: PC Computer - Tyrian - Ships_91
+  - first:
+      213: 3767489458076570359
+    second: PC Computer - Tyrian - Ships_92
+  - first:
+      213: -8090969670844225880
+    second: PC Computer - Tyrian - Ships_93
+  - first:
+      213: -4096064223215717280
+    second: PC Computer - Tyrian - Ships_94
+  - first:
+      213: -3616160901398836651
+    second: PC Computer - Tyrian - Ships_95
+  - first:
+      213: 1825261579633185254
+    second: PC Computer - Tyrian - Ships_96
+  - first:
+      213: -4267132683442898323
+    second: PC Computer - Tyrian - Ships_97
+  - first:
+      213: -1383700470832150930
+    second: PC Computer - Tyrian - Ships_98
+  - first:
+      213: -8143134746110185864
+    second: PC Computer - Tyrian - Ships_99
+  - first:
+      213: 2207048496289328179
+    second: PC Computer - Tyrian - Ships_100
+  - first:
+      213: 7910036773273331507
+    second: PC Computer - Tyrian - Ships_101
+  - first:
+      213: 2569653154481233458
+    second: PC Computer - Tyrian - Ships_102
+  - first:
+      213: -503283536614708147
+    second: PC Computer - Tyrian - Ships_103
+  - first:
+      213: 3424687486872701181
+    second: PC Computer - Tyrian - Ships_104
+  - first:
+      213: -250829143747750315
+    second: PC Computer - Tyrian - Ships_105
+  - first:
+      213: -7816882028987644811
+    second: PC Computer - Tyrian - Ships_106
+  - first:
+      213: 1905041989452812923
+    second: PC Computer - Tyrian - Ships_107
+  - first:
+      213: -4503968026809986470
+    second: PC Computer - Tyrian - Ships_108
+  - first:
+      213: 84374340306089043
+    second: PC Computer - Tyrian - Ships_109
+  - first:
+      213: -8694805643449820005
+    second: PC Computer - Tyrian - Ships_110
+  - first:
+      213: -7566421879747249709
+    second: PC Computer - Tyrian - Ships_111
+  - first:
+      213: 7722231219049288249
+    second: PC Computer - Tyrian - Ships_112
+  - first:
+      213: -3523982780429696871
+    second: PC Computer - Tyrian - Ships_113
+  - first:
+      213: 5096101272982505237
+    second: PC Computer - Tyrian - Ships_114
+  - first:
+      213: 1762145876709509018
+    second: PC Computer - Tyrian - Ships_115
+  - first:
+      213: 8855429020200324448
+    second: PC Computer - Tyrian - Ships_116
+  - first:
+      213: -3016058255619331810
+    second: PC Computer - Tyrian - Ships_117
+  - first:
+      213: -5284866892291942014
+    second: PC Computer - Tyrian - Ships_118
+  - first:
+      213: 5604178511304466210
+    second: PC Computer - Tyrian - Ships_119
+  - first:
+      213: -5664003448024466049
+    second: PC Computer - Tyrian - Ships_120
+  - first:
+      213: 346421313569294045
+    second: PC Computer - Tyrian - Ships_121
+  - first:
+      213: -7223641094126291899
+    second: PC Computer - Tyrian - Ships_122
+  - first:
+      213: -1573104323226896565
+    second: PC Computer - Tyrian - Ships_123
+  - first:
+      213: 4253669844912515756
+    second: PC Computer - Tyrian - Ships_124
+  - first:
+      213: -7754907403859019477
+    second: PC Computer - Tyrian - Ships_125
+  - first:
+      213: 7996712750542722355
+    second: PC Computer - Tyrian - Ships_126
+  - first:
+      213: -7756326962303540535
+    second: PC Computer - Tyrian - Ships_127
+  - first:
+      213: 1074484992845255439
+    second: PC Computer - Tyrian - Ships_128
+  - first:
+      213: -4578270264923248987
+    second: PC Computer - Tyrian - Ships_129
+  - first:
+      213: -324768121564306254
+    second: PC Computer - Tyrian - Ships_130
+  - first:
+      213: 1887869745128884804
+    second: PC Computer - Tyrian - Ships_131
+  - first:
+      213: -6097682183955085638
+    second: PC Computer - Tyrian - Ships_132
+  - first:
+      213: -5951068007444421082
+    second: PC Computer - Tyrian - Ships_133
+  - first:
+      213: 782762314893966567
+    second: PC Computer - Tyrian - Ships_134
+  - first:
+      213: 4577372315367432313
+    second: PC Computer - Tyrian - Ships_135
+  - first:
+      213: 6930350661050553892
+    second: PC Computer - Tyrian - Ships_136
+  - first:
+      213: 4130079472821414340
+    second: PC Computer - Tyrian - Ships_137
+  - first:
+      213: 5350496031246697710
+    second: PC Computer - Tyrian - Ships_138
+  - first:
+      213: -5356984594968978606
+    second: PC Computer - Tyrian - Ships_139
+  - first:
+      213: 6407137772550036689
+    second: PC Computer - Tyrian - Ships_140
+  - first:
+      213: -6349874932886226333
+    second: PC Computer - Tyrian - Ships_141
+  - first:
+      213: -6394310264520662166
+    second: PC Computer - Tyrian - Ships_142
+  - first:
+      213: -8528913308052872745
+    second: PC Computer - Tyrian - Ships_143
+  - first:
+      213: 5921482526969344575
+    second: PC Computer - Tyrian - Ships_144
+  - first:
+      213: 7324411942104996619
+    second: PC Computer - Tyrian - Ships_145
+  - first:
+      213: -2905324553645350876
+    second: PC Computer - Tyrian - Ships_146
+  - first:
+      213: -5371771639796215543
+    second: PC Computer - Tyrian - Ships_147
+  - first:
+      213: 6947075783936914995
+    second: PC Computer - Tyrian - Ships_148
+  - first:
+      213: -4517885525140576188
+    second: PC Computer - Tyrian - Ships_149
+  - first:
+      213: 7508877883039508226
+    second: PC Computer - Tyrian - Ships_150
+  - first:
+      213: -5821700968333917785
+    second: PC Computer - Tyrian - Ships_151
+  - first:
+      213: -7793289300583854376
+    second: PC Computer - Tyrian - Ships_152
+  - first:
+      213: 7288219727523360139
+    second: PC Computer - Tyrian - Ships_153
+  - first:
+      213: 8437545893751469590
+    second: PC Computer - Tyrian - Ships_154
+  - first:
+      213: -476099000884873415
+    second: PC Computer - Tyrian - Ships_155
+  - first:
+      213: -9034367428900368530
+    second: PC Computer - Tyrian - Ships_156
+  - first:
+      213: 6896161438938501212
+    second: PC Computer - Tyrian - Ships_157
+  - first:
+      213: -9098601095820550187
+    second: PC Computer - Tyrian - Ships_158
+  - first:
+      213: -2344018656894475505
+    second: PC Computer - Tyrian - Ships_159
+  - first:
+      213: 8869614708201157880
+    second: PC Computer - Tyrian - Ships_160
+  - first:
+      213: -1844768887079452934
+    second: PC Computer - Tyrian - Ships_161
+  - first:
+      213: -6578025291343640697
+    second: PC Computer - Tyrian - Ships_162
+  - first:
+      213: 2385088649533795137
+    second: PC Computer - Tyrian - Ships_163
+  - first:
+      213: 1547058911248803668
+    second: PC Computer - Tyrian - Ships_164
+  - first:
+      213: -6480385692500088181
+    second: PC Computer - Tyrian - Ships_165
+  - first:
+      213: -1508597344720441927
+    second: PC Computer - Tyrian - Ships_166
+  - first:
+      213: 8975413379409123700
+    second: PC Computer - Tyrian - Ships_167
+  - first:
+      213: -1778524420674807902
+    second: PC Computer - Tyrian - Ships_168
+  - first:
+      213: -3840714916510988120
+    second: PC Computer - Tyrian - Ships_169
+  - first:
+      213: 1369923744545548143
+    second: PC Computer - Tyrian - Ships_170
+  - first:
+      213: -3819638645821423661
+    second: PC Computer - Tyrian - Ships_171
+  - first:
+      213: 2327000042206244476
+    second: PC Computer - Tyrian - Ships_172
+  - first:
+      213: 4531397146153968959
+    second: PC Computer - Tyrian - Ships_173
+  - first:
+      213: -5418932502874768296
+    second: PC Computer - Tyrian - Ships_174
+  - first:
+      213: -8456346045112126248
+    second: PC Computer - Tyrian - Ships_175
+  - first:
+      213: -7221419822150315325
+    second: PC Computer - Tyrian - Ships_176
+  - first:
+      213: 5772716354875920683
+    second: PC Computer - Tyrian - Ships_177
+  - first:
+      213: -2726848197372816069
+    second: PC Computer - Tyrian - Ships_178
+  - first:
+      213: 6784066741116745627
+    second: PC Computer - Tyrian - Ships_179
+  - first:
+      213: -8163437814210426835
+    second: PC Computer - Tyrian - Ships_180
+  - first:
+      213: -3553230610391298466
+    second: PC Computer - Tyrian - Ships_181
+  - first:
+      213: -492108032863626244
+    second: PC Computer - Tyrian - Ships_182
+  - first:
+      213: -7326320053377380185
+    second: PC Computer - Tyrian - Ships_183
+  - first:
+      213: 21092237632966649
+    second: PC Computer - Tyrian - Ships_184
+  - first:
+      213: 5564833277050588332
+    second: PC Computer - Tyrian - Ships_185
+  - first:
+      213: 5479189017506217115
+    second: PC Computer - Tyrian - Ships_186
+  - first:
+      213: 1880360052015204939
+    second: PC Computer - Tyrian - Ships_187
+  - first:
+      213: -1979571697228325425
+    second: PC Computer - Tyrian - Ships_188
+  - first:
+      213: -2927457947060034444
+    second: PC Computer - Tyrian - Ships_189
+  - first:
+      213: -8843783829561311779
+    second: PC Computer - Tyrian - Ships_190
+  - first:
+      213: -7157027636841563653
+    second: PC Computer - Tyrian - Ships_191
+  - first:
+      213: 5616385258416642316
+    second: PC Computer - Tyrian - Ships_192
+  - first:
+      213: 3880313950509223671
+    second: PC Computer - Tyrian - Ships_193
+  - first:
+      213: -5738990154052178733
+    second: PC Computer - Tyrian - Ships_194
+  - first:
+      213: -6319997727292363142
+    second: PC Computer - Tyrian - Ships_195
+  - first:
+      213: -5487896096763866363
+    second: PC Computer - Tyrian - Ships_196
+  - first:
+      213: 1813078999487187535
+    second: PC Computer - Tyrian - Ships_197
+  - first:
+      213: -8286081840924184614
+    second: PC Computer - Tyrian - Ships_198
+  - first:
+      213: -4225849017662258354
+    second: PC Computer - Tyrian - Ships_199
+  - first:
+      213: -4993637218017000996
+    second: PC Computer - Tyrian - Ships_200
+  - first:
+      213: -7051607212087365384
+    second: PC Computer - Tyrian - Ships_201
+  - first:
+      213: 1182718270489227640
+    second: PC Computer - Tyrian - Ships_202
+  - first:
+      213: -7295419694599389795
+    second: PC Computer - Tyrian - Ships_203
+  - first:
+      213: 8091876742736758332
+    second: PC Computer - Tyrian - Ships_204
+  - first:
+      213: -5195779392283809407
+    second: PC Computer - Tyrian - Ships_205
+  - first:
+      213: 5583785856609348637
+    second: PC Computer - Tyrian - Ships_206
+  - first:
+      213: -3814949918526995419
+    second: PC Computer - Tyrian - Ships_207
+  - first:
+      213: 75793856409058195
+    second: PC Computer - Tyrian - Ships_208
+  - first:
+      213: -8687959475795252157
+    second: PC Computer - Tyrian - Ships_209
+  - first:
+      213: 151455673485458488
+    second: PC Computer - Tyrian - Ships_210
+  - first:
+      213: -7521005107891436974
+    second: PC Computer - Tyrian - Ships_211
+  - first:
+      213: 4539243559501971691
+    second: PC Computer - Tyrian - Ships_212
+  - first:
+      213: 2530905974298277835
+    second: PC Computer - Tyrian - Ships_213
+  - first:
+      213: 3826517199027062266
+    second: PC Computer - Tyrian - Ships_214
+  - first:
+      213: 7850001937250604311
+    second: PC Computer - Tyrian - Ships_215
+  - first:
+      213: -1958203968778668784
+    second: PC Computer - Tyrian - Ships_216
+  - first:
+      213: -2948533977764875778
+    second: PC Computer - Tyrian - Ships_217
+  - first:
+      213: -6463750626723154135
+    second: PC Computer - Tyrian - Ships_218
+  - first:
+      213: 180734284826395874
+    second: PC Computer - Tyrian - Ships_219
+  - first:
+      213: -7885523767733777778
+    second: PC Computer - Tyrian - Ships_220
+  - first:
+      213: -3751754159466240243
+    second: PC Computer - Tyrian - Ships_221
+  - first:
+      213: 4575420121924035362
+    second: PC Computer - Tyrian - Ships_222
+  - first:
+      213: -3802625540860278936
+    second: PC Computer - Tyrian - Ships_223
+  - first:
+      213: -1149916349278023313
+    second: PC Computer - Tyrian - Ships_224
+  - first:
+      213: -2932559717926643433
+    second: PC Computer - Tyrian - Ships_225
+  - first:
+      213: 2685677781599123540
+    second: PC Computer - Tyrian - Ships_226
+  - first:
+      213: 5146128717273476931
+    second: PC Computer - Tyrian - Ships_227
+  - first:
+      213: 2446688017913885579
+    second: PC Computer - Tyrian - Ships_228
+  - first:
+      213: 3626483678242826594
+    second: PC Computer - Tyrian - Ships_229
+  - first:
+      213: -3457697256647544010
+    second: PC Computer - Tyrian - Ships_230
+  - first:
+      213: 3930074401017121908
+    second: PC Computer - Tyrian - Ships_231
+  - first:
+      213: 409022997391623823
+    second: PC Computer - Tyrian - Ships_232
+  - first:
+      213: 8002966791202308443
+    second: PC Computer - Tyrian - Ships_233
+  - first:
+      213: 81872264389055420
+    second: PC Computer - Tyrian - Ships_234
+  - first:
+      213: 139903692620448465
+    second: PC Computer - Tyrian - Ships_235
+  - first:
+      213: 4142568270824348989
+    second: PC Computer - Tyrian - Ships_236
+  - first:
+      213: -2601907598431504779
+    second: PC Computer - Tyrian - Ships_237
+  - first:
+      213: -4692724410708558716
+    second: PC Computer - Tyrian - Ships_238
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 439
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367584ef57a7b360800000000000000
+      internalID: 7185395760790599217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 438
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b32e3d189945bf0800000000000000
+      internalID: -336475289261294706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 439
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d157e78c6ee04770800000000000000
+      internalID: 8593130238926868953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 439
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0fb31024b13720800000000000000
+      internalID: 2824236491201252307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 439
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db24a34d42f12240800000000000000
+      internalID: 4765356294395931607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99497a352eac2d40800000000000000
+      internalID: 5561011114813770143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 404
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acfab93da2968da0800000000000000
+      internalID: -5942901385573237594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79011f831ac961810800000000000000
+      internalID: 1735746922656895127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 407
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afdd220f015149d0800000000000000
+      internalID: -2791861169090076767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 407
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d4797838c1ef60800000000000000
+      internalID: 8061944952851323221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 367
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632a83540b0a1200800000000000000
+      internalID: 151445650679669600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 367
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a3803f9f1299d0800000000000000
+      internalID: -2769116052305239574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 367
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d284e0f7bd927210800000000000000
+      internalID: 1329298253373801169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 368
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461fcaa364e27b350800000000000000
+      internalID: 6032341105053069668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 368
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6832a73a8a0b600800000000000000
+      internalID: 482070580210927354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 332
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fee071cc924fe60800000000000000
+      internalID: 7995061195026394930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 333
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246ca1324c347820800000000000000
+      internalID: 2915021113814443050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 332
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eca63c8be368000800000000000000
+      internalID: 37786610152689246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_42
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 332
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3630440564086a30800000000000000
+      internalID: 4208618683687253562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 332
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aff8b6d29d3288f0800000000000000
+      internalID: -539801304454070359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 334
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6c53934fcea3f0800000000000000
+      internalID: -887544187403341889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 334
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503dc4d2414f61ea0800000000000000
+      internalID: -5902261894125923579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 334
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c71d4f88eca3e50800000000000000
+      internalID: 6789966475832687659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 334
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6890fd5ad8233610800000000000000
+      internalID: 1599667210990688363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 334
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977187481495b46f0800000000000000
+      internalID: -699367179195771015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 296
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e57516a17bc580800000000000000
+      internalID: -8805819688254316343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 296
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163d345e0e438e20800000000000000
+      internalID: 3351608371143587357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a401ffc74c45e060800000000000000
+      internalID: 6982070668622890149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 296
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485832b7230e9390800000000000000
+      internalID: -7809801234785216448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 296
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1e5eddcb32f80e0800000000000000
+      internalID: -2265552793460416085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 259
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e7345522dee470800000000000000
+      internalID: 8425903010625348080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 258
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4392930e399fd4df0800000000000000
+      internalID: -194224795389712076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_91
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 257
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe0283e49e36f60800000000000000
+      internalID: 8026515483062759269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_92
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 257
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2deab73bfc84430800000000000000
+      internalID: 3767489458076570359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 257
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6eed0c3f917bf80800000000000000
+      internalID: -8090969670844225880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_94
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 241
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647a067a4bd727c0800000000000000
+      internalID: -4096064223215717280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 219
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d9879891107a10800000000000000
+      internalID: 1905041989452812923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_108
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 218
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52164251f0be71c0800000000000000
+      internalID: -4503968026809986470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 219
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3543a16f302cb2100800000000000000
+      internalID: 84374340306089043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_110
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 219
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c9c179558d55780800000000000000
+      internalID: -8694805643449820005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_111
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 220
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9fbe4936baef690800000000000000
+      internalID: -7566421879747249709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_134
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 186
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec31da9d2eecda00800000000000000
+      internalID: 782762314893966567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_135
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 186
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ee2e6ed7168f30800000000000000
+      internalID: 4577372315367432313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 186
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426dfc8253d8d2060800000000000000
+      internalID: 6930350661050553892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_137
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 186
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c927aff56df05930800000000000000
+      internalID: 4130079472821414340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 187
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c892dac7c04a40800000000000000
+      internalID: 5350496031246697710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_147
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 155
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901dd6b8722a375b0800000000000000
+      internalID: -5371771639796215543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_148
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 155
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33637494e98f86060800000000000000
+      internalID: 6947075783936914995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_149
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ed1a3d0f3d41c0800000000000000
+      internalID: -4517885525140576188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_150
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 155
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076b50a6a4e43860800000000000000
+      internalID: 7508877883039508226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_151
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 155
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c8e160d9253fa0800000000000000
+      internalID: -5821700968333917785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_163
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 116
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b27417d79891120800000000000000
+      internalID: 2385088649533795137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_164
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 115
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457669312e1487510800000000000000
+      internalID: 1547058911248803668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a22071c8b0116a0800000000000000
+      internalID: -6480385692500088181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd27d635b2601be0800000000000000
+      internalID: -1508597344720441927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_167
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 114
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47918ff2ae21f8c70800000000000000
+      internalID: 8975413379409123700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb45079951cc4b0800000000000000
+      internalID: -5418932502874768296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_175
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 77
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4ff4b531605aa80800000000000000
+      internalID: -8456346045112126248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_176
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 77
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c214c6beec58cb90800000000000000
+      internalID: -7221419822150315325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_177
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21977980fecc1050800000000000000
+      internalID: 5772716354875920683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_178
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35dd2f030a482ad0800000000000000
+      internalID: -2726848197372816069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_185
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 43
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac8fd8b1624a3d40800000000000000
+      internalID: 5564833277050588332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_186
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cfda5a16df90c40800000000000000
+      internalID: 5479189017506217115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_187
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 43
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a83363181681a10800000000000000
+      internalID: 1880360052015204939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_188
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 42
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd94397062784e0800000000000000
+      internalID: -1979571697228325425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_189
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 42
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a79ae1849f57d0800000000000000
+      internalID: -2927457947060034444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_190
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 4
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd77a0a671944580800000000000000
+      internalID: -8843783829561311779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_191
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b76aa8412dac90800000000000000
+      internalID: -7157027636841563653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_192
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091aa9b2a861fd40800000000000000
+      internalID: 5616385258416642316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_193
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe481daaf4a9d530800000000000000
+      internalID: 3880313950509223671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Tyrian - Ships_194
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 5
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc61428cd20b50b0800000000000000
+      internalID: -5738990154052178733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
